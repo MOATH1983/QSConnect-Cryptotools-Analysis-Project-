@@ -1,2 +1,2 @@
-# qsconnect-cryptotools-analysis
-QSConnect Cryptotools Analysis Template - M4 Assignment
+# QSConnect Cryptotools Analysis
+QSConnect Cryptotools Analysis Template 
