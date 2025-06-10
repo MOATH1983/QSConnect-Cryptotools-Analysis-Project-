@@ -1,8 +1,7 @@
 # QSConnect Cryptotools Analysis
 QSConnect Cryptotools Analysis Template 
-# QSConnect Cryptotools Analysis Template
 
-This template provides a comprehensive analysis framework for M4: Implementation Using Cryptanalysis Tools and Methods.
+This template provides a comprehensive analysis framework, QSConnect, by Implementation Using Cryptanalysis Tools and Methods.
 
 ## Live Preview
 🔗 [View Template](https://moath1983.github.io/QSConnect-Cryptotools-Analysis-Project-/)
